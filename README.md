@@ -99,9 +99,10 @@ end page
 
 ![Screenshot 2024-04-25 202946](https://github.com/aswethaashok/Figma/assets/149987410/ddbdf2d4-7915-430a-bb74-cb5de112b7f5)
 
-![Screenshot 2024-04-25 203004](https://github.com/aswethaashok/Figma/assets/149987410/6b81e433-897b-4b2c-b6e0-06b543d15533)
+![Screenshot 2024-04-30 141701](https://github.com/aswethaashok/Figma/assets/149987410/150d0750-ae3b-4ca4-b755-c4dc5299849c)
 
-![Screenshot 2024-04-25 203032](https://github.com/aswethaashok/Figma/assets/149987410/2035e66d-77b6-4cfe-a41a-63a1fcc6e8c7)
+![Screenshot 2024-04-30 141714](https://github.com/aswethaashok/Figma/assets/149987410/7b583a0a-5c24-4e7c-a666-ca7286dfd3dc)
+
 
 ![Screenshot 2024-04-25 203550](https://github.com/aswethaashok/Figma/assets/149987410/ab5c0021-5070-4b49-8685-87df0a67a7a9)
 
